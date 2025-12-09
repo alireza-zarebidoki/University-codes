@@ -1,57 +1,44 @@
-# 💻 Fundamentals of Programming (CS101)
+# 🐣 Series 1: Getting Started
 
-**Course:** Computer Basics & Programming  
-**University:** Ferdowsi University of Mashhad (FUM)  
-**Main Languages:** `C` , `C++`
-
----
-
-## 📖 Course Overview
-This directory serves as the main archive for the **Fundamentals of Programming** course. The primary goal is to master algorithmic thinking, structured programming, and memory management basics.
-
-All codes are written to strictly follow the standard syntax of **C** and **Modern C++**.
+**Focus:** Basic Syntax, Input/Output (`printf`, `scanf`), and Arithmetic Operators.  
+**Language:** C
 
 ---
 
-## 📂 Directory Structure
+## 📋 Problem List
 
-The content is organized into the following categories:
+Here are the solutions for the first problem set:
 
-| 📁 Folder Name | 📝 Description |
-| :--- | :--- |
-| **[`/Exercise-solution`](./Exercise-solution)** | **Assignments & Homework:** Solutions to weekly problem sets (Series 1, Series 2, etc.). |
-| **[`/Class-Codes`](./Class-Codes)** | **Lecture Notes:** Code snippets and examples written during class sessions. |
-| **[`/Projects`](./Projects)** | **Mini-Projects:** Larger applications or games (e.g., Snake game, Calculator). |
+| 📂 Exercise Folder | 📝 Problem Title | ✅ Status |
+| :--- | :--- | :---: |
+| **[`/1-Comparing-two-numbers`](./1-Comparing-two-numbers)** | **Compare Two Numbers** <br> Taking inputs and comparing values. | ✅ Completed |
+| **[`/2-Problem-Name`](./)** | *(Add your next problem here)* | 🔄 |
+| **[`/3-Problem-Name`](./)** | *(Add your next problem here)* | 🔄 |
 
-> *Tip: Click on the folders above to explore specific codes.*
-
----
-
-## 🧠 Topics Covered
-
-My codes in this repository cover the following concepts:
-
-1.  **Basics:** Flowcharts, Variables, Data Types, Input/Output (`printf`/`scanf`, `cin`/`cout`).
-2.  **Control Flow:** Conditionals (`if-else`, `switch`) and Loops (`for`, `while`, `do-while`).
-3.  **Functions:** Modular programming, Recursion, and Scope.
-4.  **Data Structures:** 1D & 2D Arrays, Strings, and Structs.
-5.  **Memory Management:** Pointers, References, and Dynamic Allocation.
-6.  **Algorithms:** Basic Sorting (Bubble, Selection) and Searching (Linear, Binary).
+> *Tip: Click on the folder name to see the code and problem description.*
 
 ---
 
-## ⚙️ How to Compile & Run
+## 💡 Key Concepts Used
+In this series, I practiced:
+* Structure of a C program (`#include`, `main`).
+* Defining variables (`int`, `float`, `char`).
+* Standard I/O functions from `<stdio.h>`.
+* Basic arithmetic (`+`, `-`, `*`, `/`, `%`).
 
-You can run these codes using any standard C/C++ compiler (like GCC or Clang).
+---
 
-**Using Terminal (GCC):**
+## 🏃 How to Run
+Navigate to the specific problem folder and run:
+
 ```bash
 # Compile
-g++ filename.cpp -o output
+gcc main.c -o main
 
 # Run
-./output
+./main
 ````
+
 ---
 
 <div align="center">
