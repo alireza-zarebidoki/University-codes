@@ -51,7 +51,8 @@ g++ filename.cpp -o output
 
 # Run
 ./output
-
+````
+---
 
 <div align="center">
   <a href="../">⬅️ <b>Back to Solutions List</b></a>
