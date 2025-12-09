@@ -53,10 +53,7 @@ g++ filename.cpp -o output
 ./output
 ````
 
------
 
-\<div align="center"\>
-\<a href="../"\>⬅️ \<b\>Back to Semester 1\</b\>\</a\>
-\</div\>
-
-```
+<div align="center"\>
+<a href="../"\>⬅️ \<b\>Back to Semester 1\</b\>\</a\>
+</div\>
