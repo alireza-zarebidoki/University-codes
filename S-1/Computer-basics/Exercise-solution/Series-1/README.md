@@ -12,8 +12,6 @@ Here are the solutions for the first problem set:
 | 📂 Exercise Folder | 📝 Problem Title | ✅ Status |
 | :--- | :--- | :---: |
 | **[`/1-Comparing-two-numbers`](./1-Comparing-two-numbers)** | **Compare Two Numbers** <br> Taking inputs and comparing values. | ✅ Completed |
-| **[`/2-Problem-Name`](./)** | *(Add your next problem here)* | 🔄 |
-| **[`/3-Problem-Name`](./)** | *(Add your next problem here)* | 🔄 |
 
 > *Tip: Click on the folder name to see the code and problem description.*
 
