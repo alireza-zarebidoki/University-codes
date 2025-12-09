@@ -12,11 +12,11 @@ Below is the list of weekly exercise series, categorized by the topics covered i
 
 | 📁 Series Folder | 🧠 Topics & Key Concepts | 🔧 Language |
 | :--- | :--- | :---: |
-| **[`/Series-1`](./Series-1)** | **Introduction & I/O** <br> Basic math, Variables, `cin`/`cout`, and simple logic. | `C` / `C++` |
-| **[`/Series-2`](./Series-2)** | **Control Structures** <br> Conditionals (`if/else`, `switch`) and Loops. | `C++` |
-| **[`/Series-3`](./Series-3)** | **Arrays & Strings** <br> Working with vectors, char arrays, and matrices. | `C++` |
-| **[`/Series-4`](./Series-4)** | **Functions & Modular Code** <br> Recursion, Scopes, and passing arguments. | `C++` |
-| **[`/Series-5`](./Series-5)** | **Pointers & Memory** <br> Dynamic allocation and memory management. | `C++` |
+| **[`/Series-1`](./Series-1)** | **Introduction & I/O** <br> Basic math, Variables, `printf`/`scanf`, and simple logic. | `C` |
+| **[`/Series-2`](./Series-2)** | **Control Structures** <br> Conditionals (`if/else`, `switch`) and Loops. | `C` |
+| **[`/Series-3`](./Series-3)** | - | `C` |
+| **[`/Series-4`](./Series-4)** | - | `C` |
+| **[`/Series-5`](./Series-5)** | - | `C` |
 
 > *Note: Click on the specific Series to view individual problem solutions.*
 
