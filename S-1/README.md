@@ -10,7 +10,7 @@ Here, I have documented my codes, assignments, and notes for this term.
 
 | 📂 Course Folder | 📝 Description | 🔧 Tools & Languages |
 | :--- | :--- | :---: |
-| **[`/Computer-Basics`](./Computer-Basics)** | **Fundamentals of Programming** <br> Algorithms, Flowcharts, C/C++ basics. | `C` `C++` |
+| **[`/Computer-Basics`](./Computer-basics)** | **Fundamentals of Programming** <br> Algorithms, Flowcharts, C/C++ basics. | `C` `C++` |
 | **[`/Computer-Workshop-1`](./Computer-Workshop-1)** | **Computer Workshop** <br> Linux commands, Git, Office, and basic tools. | `Linux` `Bash` `Git` |
 | **[`/Foundations-of-Math`](./Foundations-of-Math)** | **Foundations of Mathematics** <br> Logic, Set Theory, and Mathematical proofs. | `LaTeX` `Python` |
 | **[`/Calculus-1`](./Calculus-1)** | **General Math 1** <br> Limits, Derivatives, Integrals. | `Python` `Maple` |
