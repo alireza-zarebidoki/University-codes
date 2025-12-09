@@ -54,6 +54,6 @@ g++ filename.cpp -o output
 ````
 
 <div align="center">
-  <a href="../">⬅️ <b>Back to Semester 1/b></a>
+  <a href="../">⬅️ <b>Back to Semester 1</b></a>
 </div>
 
