@@ -34,10 +34,10 @@ Navigate to the specific session folder and run:
 ```bash
 # Compile
 gcc main.c -o output
+# Run
+./output
 ````
 ---
 
 <div align="center"> <a href="../">⬅️ <b>Back to Course Page</b></a> </div>
-# Run
-./output
-÷
+
