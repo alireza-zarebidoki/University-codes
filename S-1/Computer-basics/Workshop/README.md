@@ -16,7 +16,7 @@ This directory contains the codes, quizzes, and tasks performed during the weekl
 | **[`/Session-2`](./Session-2)** | **Workshop 2** <br> Hands-on practice with basic syntax and I/O. | ✅ Completed |
 | **[`/Session-3`](./Session-3)** | **Workshop 3** <br> Practical exercises on Control Structures. | ✅ Completed |
 | **[`/Session-4`](./Session-4)** | **Workshop 4 (Quiz)** <br> Mid-term assessment / Coding test. | ✅ Completed |
-| **[`/Fractal-Assignment`](./Fractal-Assignment)** | **Fractal Assignment** <br> Generating fractal patterns (e.g., Sierpinski/Mandelbrot). | ✅ Completed |
+| **[`/Fractal-Task`](./Fractal-Task)** | **Fractal Assignment** <br> Generating fractal patterns (e.g., Sierpinski/Mandelbrot). | ✅ Completed |
 
 > *Tip: Click on the folder name to explore the codes for each session.*
 
