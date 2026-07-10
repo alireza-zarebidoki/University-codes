@@ -54,10 +54,20 @@ Select option: _
 
 ### اجرا از سورس
 
-```bash
-git clone <repository-url>
-cd <repository-folder>
+**گزینه‌ی ۱ — دانلود مستقیم فقط همین پوشه (ساده‌ترین راه):**
 
+به [این لینک](https://download-directory.github.io/?url=https://github.com/alireza-zarebidoki/University-codes/tree/main/S-2/Advanced-Programming/Project/GrandPersiaHMS) برو تا یک فایل ZIP فقط از پوشه‌ی همین پروژه دانلود شود، سپس آن را از حالت فشرده خارج کن.
+
+**گزینه‌ی ۲ — کلون کل مخزن:**
+
+```bash
+git clone https://github.com/alireza-zarebidoki/University-codes.git
+cd University-codes/S-2/Advanced-Programming/Project/GrandPersiaHMS
+```
+
+**کامپایل و اجرا (مشترک بین هر دو گزینه):**
+
+```bash
 javac -d out $(find src -name "*.java")
 java -cp out com.grandpersia.Main
 ```
