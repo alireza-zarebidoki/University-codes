@@ -84,6 +84,7 @@ password: admin123
 ```bash
 echo "Main-Class: com.grandpersia.Main" > manifest.txt
 jar cfm hotel-management.jar manifest.txt -C out .
+‍‍
 java -jar hotel-management.jar
 ```
 
